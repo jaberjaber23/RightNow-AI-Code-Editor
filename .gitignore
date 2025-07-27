@@ -1,0 +1,78 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+out/
+out-build/
+out-vscode/
+dist/
+.build/
+installers/
+
+# Electron
+VSCode-*/
+electron-*/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Package files
+*.tgz
+*.tar.gz
+
+# RightNow AI specific
+.rightnow-editor/
+.cuda-cache/
+
+# R2 credentials (if accidentally committed)
+upload-r2-credentials.json
+
+# Build artifacts
+*.exe
+*.AppImage
+*.dmg
+*.pkg
+*.deb
+*.rpm

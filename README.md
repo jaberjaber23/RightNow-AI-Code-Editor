@@ -1,4 +1,4 @@
-# RightNow AI Code Editor
+# RightNow AI Code Editor - Preview
 
 AI-powered code editor designed for CUDA development and high-performance computing.
 
@@ -6,10 +6,10 @@ Built on VSCode with specialized enhancements for GPU development workflows.
 
 ## Download
 
-- [Windows x64](https://pub-ee180aaefc6a4cdb838df81e222d36c6.r2.dev/win32-x64/RightNowSetup-0.0.1-x64.exe)
-- [Windows ARM64](https://pub-ee180aaefc6a4cdb838df81e222d36c6.r2.dev/win32-arm64/RightNowSetup-0.0.1-arm64.exe)
-- [Linux x64](https://pub-ee180aaefc6a4cdb838df81e222d36c6.r2.dev/linux-x64/)
-- [Linux ARM64](https://pub-ee180aaefc6a4cdb838df81e222d36c6.r2.dev/linux-arm64/)
+- [Windows x64](https://rightnowai.co)
+- [Windows ARM64](https://rightnowai.co)
+- [Linux x64](https://rightnowai.co)
+- [Linux ARM64](https://rightnowai.co)
 
 ## Features
 
@@ -50,12 +50,9 @@ Check [existing issues](https://github.com/jaberjaber23/RightNow-AI-Code-Editor/
 - CUDA Toolkit 11.0+
 - 8GB+ RAM recommended
 
-## License
-
-Proprietary software. Built on open source foundations:
-- [Visual Studio Code](https://github.com/microsoft/vscode) (MIT)
-- [Void Editor](https://github.com/voideditor/void) (Apache 2.0)
 
 ## Links
 
-[Website](https://rightnowai.co) | [Contact](mailto:contact@rightnowai.co)
+[Website](https://rightnowai.co) | [Contact](mailto:jaber@rightnowai.co) 
+
+**Consider joining our [Discord community](https://discord.gg/u2es79H8) for real-time help! 💬**

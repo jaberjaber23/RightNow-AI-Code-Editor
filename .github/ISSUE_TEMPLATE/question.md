@@ -24,9 +24,8 @@ assignees: ''
 
 **What documentation have you checked or solutions have you attempted?**
 
-- [ ] Checked the [documentation](https://docs.rightnowai.co)
 - [ ] Searched existing issues
-- [ ] Asked in [Discord](https://discord.gg/rightnowai)
+- [ ] Asked in [Discord](https://discord.gg/u2es79H8)
 
 ## 📋 Additional Context
 
@@ -34,4 +33,4 @@ assignees: ''
 
 ---
 
-**Consider joining our [Discord community](https://discord.gg/rightnowai) for real-time help! 💬**
+**Consider joining our [Discord community](https://discord.gg/u2es79H8) for real-time help! 💬**

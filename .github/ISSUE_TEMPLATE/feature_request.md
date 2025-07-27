@@ -1,76 +1,46 @@
 ---
-name: 💡 Feature Request
-about: Suggest a new feature or enhancement for RightNow AI Code Editor
+name: Feature Request
+about: Suggest a new feature or enhancement
 title: '[FEATURE] '
 labels: ['enhancement', 'needs-triage']
 assignees: ''
 ---
 
-## 💡 Feature Description
+## Feature Description
 
-**A clear and concise description of the feature you'd like to see.**
+Describe the feature you'd like to see.
 
-## 🎯 Problem Statement
+## Problem
 
-**What problem does this feature solve? Is your feature request related to a problem?**
+What problem does this solve?
 
-## 🛠️ Proposed Solution
+## Proposed Solution
 
-**Describe the solution you'd like to see implemented.**
+How should this feature work?
 
-## 🔄 Alternative Solutions
+## Use Cases
 
-**Describe any alternative solutions or features you've considered.**
+- As a [user type], I want [goal] so that [benefit]
+- When [situation], I expect [behavior]
 
-## 📚 Use Cases
+## Category
 
-**Describe specific use cases for this feature:**
+Which area does this relate to?
 
-1. As a [type of user], I want [goal] so that [benefit]
-2. When [situation], I expect [behavior]
+- [ ] AI Features
+- [ ] CUDA Development  
+- [ ] Editor Experience
+- [ ] Extensions
+- [ ] Performance
+- [ ] Settings
+- [ ] Other
 
-## 🎨 Mockups/Examples
-
-**If applicable, add mockups, screenshots, or examples to help explain your feature.**
-
-## 🏷️ Feature Category
-
-**Which area does this feature relate to? (Check all that apply)**
-
-- [ ] AI Features (Chat, Completion, Code Generation)
-- [ ] CUDA Development (Syntax, Debugging, Profiling)
-- [ ] Editor Experience (UI, Themes, Navigation)
-- [ ] Extensions & Integrations
-- [ ] Performance & Optimization
-- [ ] Settings & Configuration
-- [ ] Other: _______________
-
-## 📊 Priority
-
-**How important is this feature to you?**
+## Priority
 
 - [ ] Nice to have
-- [ ] Would improve my workflow significantly
-- [ ] Critical for my use case
+- [ ] Would improve workflow
+- [ ] Critical for use case
 
-## 💻 Target Platforms
+## Additional Context
 
-**Which platforms should this feature support?**
-
-- [ ] Windows x64
-- [ ] Windows ARM64
-- [ ] Linux x64
-- [ ] Linux ARM64
-- [ ] All platforms
-
-## 📋 Additional Context
-
-**Add any other context, links, or references about the feature request here.**
-
-### 🏷️ Related Issues
-
-**Link any related issues, discussions, or feature requests.**
-
----
-
-**Thank you for helping shape the future of RightNow AI Code Editor! 🚀**
+Any other relevant information.
